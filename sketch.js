@@ -4,7 +4,7 @@ var h;
 
 function setup() {
   //create the canvas
-  createCanvas(800,800);
+  createCanvas(400,400);
 
   //set the angle mode to degrees
   angleMode(DEGREES);
